@@ -8,5 +8,7 @@ public class TC002 {
         // writing smoke tests...
 
         // writing regression tests...
+
+        // creating a report
     }
 }
